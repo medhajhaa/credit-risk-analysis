@@ -1,4 +1,5 @@
  Credit Risk Analysis Dashboard (Python + Power BI)
+ 
 Tools & Technologies Used
 - Python (NumPy, Pandas): Data cleaning, preprocessing, and feature engineering
 - Feature Engineering: Debt‑to‑Asset Ratio, Cash Loan Intensity, Risk Tier classification
