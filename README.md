@@ -1,11 +1,15 @@
- Credit Risk Analysis Dashboard (Python + Power BI)
+ ## Credit Risk Analysis of Mudra Loans in India(Python + Power BI)  
+  
+   Project Overview
+
+This project analyzes credit risk patterns in Mudra loan disbursements across Indian states using Python and Power BI. The goal is to identify high-risk regions, understand loan distribution, and uncover relationships between assets, debt, and loan exposure.
  
 Tools & Technologies Used
 - Python (NumPy, Pandas): Data cleaning, preprocessing, and feature engineering
 - Feature Engineering: Debt‑to‑Asset Ratio, Cash Loan Intensity, Risk Tier classification
 - Power BI: Multi‑page interactive dashboard with KPIs, maps, slicers, and drill‑downs
 - Datasets Used:
-- Loan Accounts & Disbursed Amounts: 315B+ loan records, ₹1.93B disbursed data
+- Loan Accounts & Disbursed Amounts: 300B+ loan records, ₹1.93B disbursed data
 - Household Segmentation: Household type categories (Cultivator, Non‑Cultivator, Self‑Employed, Others) with risk tiers and debt‑to‑asset ratios
 
 What I did?
